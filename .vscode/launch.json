@@ -4,8 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-        {
+    {
             "name": "(gdb) Launch",
             "preLaunchTask": "g++.exe build active file",//调试前执行的任务，就是之前配置的tasks.json中的label字段
             "type": "cppdbg",//配置类型，只能为cppdbg
@@ -26,5 +25,4 @@
                 }
             ]
         }
-    ]
-}
+    ]}
