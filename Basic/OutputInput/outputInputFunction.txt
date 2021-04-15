@@ -1,0 +1,6 @@
+putchar();//输出字符
+getchar();//输入字符
+printf();//格式输出
+scanf();//格式输入
+puts();//输出字符串
+gets();//输入字符串
