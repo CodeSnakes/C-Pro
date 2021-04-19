@@ -13,7 +13,7 @@
             //此处是编译器路径，以后可直接在此修改
             "cStandard": "gnu11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-gcc-x64",
+            "intelliSenseMode": "gcc-x64",
             "compilerPath": "C:\\mingw64\\bin\\g++.exe"
         }
     ],
