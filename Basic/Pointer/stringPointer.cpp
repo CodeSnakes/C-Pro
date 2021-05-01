@@ -43,3 +43,11 @@ void inv1()
     printf("string b is:%s\n", b);
     printf("\n");
 }
+void changePinterValue()
+{
+    char *a = "I love China!";
+    a = a + 7;
+    printf("%s\n", a);
+    //running Results
+    //China!
+}
