@@ -2,7 +2,7 @@
 int main()
 {
     char *name[] = {"Follow me", "BASIC", "Great Wall", "FORTRAN", "Computer design"};
-    char **p;
+    char **p; //多重指针
     int i;
     for (i = 0; i < 5; i++)
     {
